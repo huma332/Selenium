@@ -12,7 +12,7 @@ public class OpenBrowser {
 		
 		driver=new ChromeDriver();
 		
-		driver.get("https://www.google.com");
+		driver.get("https://www.demoblaze.com/index.html");
 	}
 	
 
